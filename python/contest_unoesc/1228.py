@@ -1,19 +1,27 @@
 def troca(org, des, lista):
-    aux = lista[org]
+    temp = lista[org]
     lista[org] = lista[des]
-    lista[des] = aux
+    lista[des] = temp
 
 
 while True:
     try:
-        cont = 0
         concorrentes = int(input())
-        largada = [int(i) for i in input().split()]
-        chegada = [int(i) for i in input().split()]
+        largada = [int(n) for n in input().split()]
+        chegada = [int(n) for n in input().split()]
+        aux = [0] * concorrentes
 
         for i in range(concorrentes):
-            while largada[i] != chegada[i]:
-                
+            for j in range(concorrentes):
+                if largada[i] == chegada[j]:
+                    aux[j] = i + concorrentes
+
+        cont = 0
+        for i in range(concorrentes):
+            for j in range(i+1, concorrentes):
+                if aux[i] > aux[j]:
+                    troca(i, j, aux)
+                    cont += 1
 
         print(cont)
 
