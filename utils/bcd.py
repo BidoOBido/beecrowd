@@ -1,5 +1,10 @@
-import click
-import updater_util
+import click, updater_util, os
+
+
+def _getPath():
+    _parent_directory = os.path.join(os.path.split(__file__)[0], os.path.pardir)
+
+    return os.path.abspath(_parent_directory)
 
 
 @click.group()
@@ -11,13 +16,11 @@ def main():
 
 
 @main.command()
-@click.argument("path")
-def update_readme(path):
+def update_readme():
     """
-    This updates de readme file\n
-    - PATH\t indicate the path to the beecrowd directory
+    This updates de readme file
     """
-    click.echo(updater_util.update(path))
+    click.echo(updater_util.update(_getPath()))
 
 
 if __name__ == "__main__":
