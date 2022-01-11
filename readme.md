@@ -4,7 +4,7 @@ Propostas de resoluções dos exercícios do site [beecrowd](https://www.beecrow
 
 Atualmente existem resoluções para exercícios nas seguintes linguagens (divididos entre **completos** e **incompletos**):
 
-Total geral: `130 completos de  141 tentados ███████████████████████████░░░ 92.20%`
+Total geral: `130 completos de  142 tentados ███████████████████████████░░░ 91.55%`
 
 - [c++](./c++/)
 
@@ -33,7 +33,7 @@ Total geral: `130 completos de  141 tentados ███████████�
 - [python](./python/)
 
 ```txt
-  72 completos de   81 tentados ██████████████████████████░░░░ 88.89%
+  72 completos de   82 tentados ██████████████████████████░░░░ 87.80%
 ```
 
 - [java](./java/)
