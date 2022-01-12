@@ -4,53 +4,52 @@ Propostas de resoluções dos exercícios do site [beecrowd](https://www.beecrow
 
 Atualmente existem resoluções para exercícios nas seguintes linguagens (divididos entre **completos** e **incompletos**):
 
-Total geral: `130 completos de  142 tentados ███████████████████████████░░░ 91.55%`
+Total geral: ```161 completos de  174 tentados ░░░███████████████████████████ 92.53%```
 
-- [c++](./c++/)
+- [c++](./c++)
 
-```txt
-   3 completos de    3 tentados ██████████████████████████████ 100.00%
+```bash
+3 completos de    3 tentados ██████████████████████████████ 100.00%
 ```
 
-- [ruby](./ruby/)
+- [ruby](./ruby)
 
-```txt
-  12 completos de   12 tentados ██████████████████████████████ 100.00%
+```bash
+12 completos de   12 tentados ██████████████████████████████ 100.00%
 ```
 
-- [sql](./sql/)
+- [sql](./sql)
 
-```txt
-  34 completos de   34 tentados ██████████████████████████████ 100.00%
+```bash
+34 completos de   34 tentados ██████████████████████████████ 100.00%
 ```
 
-- [go](./go/)
+- [go](./go)
 
-```txt
-   2 completos de    3 tentados ████████████████████░░░░░░░░░░ 66.67%
+```bash
+2 completos de    3 tentados ░░░░░░░░░░████████████████████ 66.67%
 ```
 
-- [python](./python/)
+- [python](./python)
 
-```txt
-  72 completos de   82 tentados ██████████████████████████░░░░ 87.80%
+```bash
+72 completos de   83 tentados ░░░░██████████████████████████ 86.75%
 ```
 
-- [java](./java/)
+- [java](./java)
 
-```txt
-  21 completos de   22 tentados ████████████████████████████░░ 95.45%
+```bash
+21 completos de   22 tentados ░░████████████████████████████ 95.45%
 ```
 
-- [javascript](./javascript/)
+- [javascript](./javascript)
 
-```txt
-   7 completos de    7 tentados ██████████████████████████████ 100.00%
+```bash
+7 completos de    7 tentados ██████████████████████████████ 100.00%
 ```
 
-- [c](./c/)
+- [c](./c)
 
-```txt
-  10 completos de   10 tentados ██████████████████████████████ 100.00%
+```bash
+10 completos de   10 tentados ██████████████████████████████ 100.00%
 ```
-
