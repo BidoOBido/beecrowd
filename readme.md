@@ -4,52 +4,37 @@ Propostas de resoluções dos exercícios do site [beecrowd](https://www.beecrow
 
 Atualmente existem resoluções para exercícios nas seguintes linguagens (divididos entre **completos** e **incompletos**):
 
-Total geral: ```168 completos de  181 tentados ███████████████████████████░░░ 92.82%```
+![](https://progress-bar.dev/93/?title=Total&width=200)
 
-- [c++](./c++)
+- [c](./c) - 10 completos de 10 tentados.
 
-```bash
-3 completos de    3 tentados ██████████████████████████████ 100.00%
-```
+![](https://progress-bar.dev/100/?title=c&width=200)
 
-- [ruby](./ruby)
+- [c++](./c++) - 3 completos de 3 tentados.
 
-```bash
-12 completos de   12 tentados ██████████████████████████████ 100.00%
-```
+![](https://progress-bar.dev/100/?title=c++&width=200)
 
-- [sql](./sql)
+- [go](./go) - 2 completos de 3 tentados.
 
-```bash
-38 completos de   38 tentados ██████████████████████████████ 100.00%
-```
+![](https://progress-bar.dev/67/?title=go&width=200)
 
-- [go](./go)
+- [java](./java) - 21 completos de 22 tentados.
 
-```bash
-2 completos de    3 tentados ████████████████████░░░░░░░░░░ 66.67%
-```
+![](https://progress-bar.dev/95/?title=java&width=200)
 
-- [python](./python)
+- [javascript](./javascript) - 7 completos de 7 tentados.
 
-```bash
-75 completos de   86 tentados ██████████████████████████░░░░ 87.21%
-```
+![](https://progress-bar.dev/100/?title=javascript&width=200)
 
-- [java](./java)
+- [python](./python) - 75 completos de 86 tentados.
 
-```bash
-21 completos de   22 tentados ████████████████████████████░░ 95.45%
-```
+![](https://progress-bar.dev/87/?title=python&width=200)
 
-- [javascript](./javascript)
+- [ruby](./ruby) - 12 completos de 12 tentados.
 
-```bash
-7 completos de    7 tentados ██████████████████████████████ 100.00%
-```
+![](https://progress-bar.dev/100/?title=ruby&width=200)
 
-- [c](./c)
+- [sql](./sql) - 38 completos de 38 tentados.
 
-```bash
-10 completos de   10 tentados ██████████████████████████████ 100.00%
-```
+![](https://progress-bar.dev/100/?title=sql&width=200)
+
