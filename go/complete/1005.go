@@ -7,5 +7,7 @@ func main() {
 
 	fmt.Scan(&A, &B)
 
-	fmt.Printf("MEDIA = %.4f\n", (A+B)/2)
+	media := ((A * 3.5) + (B * 7.5)) / 11
+
+	fmt.Printf("MEDIA = %.5f\n", media)
 }
